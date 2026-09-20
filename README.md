@@ -50,9 +50,9 @@ It will ask for your password (via pkexec) and change ownership to your user rec
 
 
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-2. GNOME / Nautilus (GNOME edition of Nobara)
+2. If you have  GNOME / Nautilus (GNOME edition of Nobara)
 
 Bash
 ----------------------------------------------------------------
