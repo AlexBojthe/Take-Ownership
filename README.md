@@ -2,7 +2,7 @@
 Take ownership of a file in Fedora- Nobara, with right clik option menu.
 
 Here’s a ready-to-use setup for Nobara OS (Fedora-based). Nobara’s Official edition uses KDE Plasma + Dolphin, while the GNOME edition uses Nautilus. I’ll give both.
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. KDE / Dolphin (Official Nobara – recommended)
 Run these commands in a terminal:
 -------------------------------------------------------------------
