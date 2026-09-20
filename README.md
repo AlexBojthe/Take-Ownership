@@ -1,7 +1,8 @@
 # Take-Ownership
 Take ownership of a file in Fedora- Nobara, with right clik option menu.
 
-Here’s a ready-to-use setup for Nobara OS (Fedora-based). Nobara’s Official edition uses KDE Plasma + Dolphin, while the GNOME edition uses Nautilus. I’ll give both.
+Here’s a ready-to-use setup for Nobara OS (Fedora-based). Nobara’s Official edition uses KDE Plasma + Dolphin, 
+while the GNOME edition uses Nautilus. I’ll give both.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. KDE / Dolphin (Official Nobara – recommended)
 Run these commands in a terminal:
@@ -39,7 +40,7 @@ It will ask for your password (via pkexec) and change ownership to your user rec
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+############################################################################
 
 2. If you have  GNOME / Nautilus (GNOME edition of Nobara)
 
